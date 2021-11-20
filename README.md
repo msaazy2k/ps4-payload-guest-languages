@@ -32,6 +32,6 @@
 | 27.json | Thai                     |
 | 28.json | Vietnamese               |
 | 29.json | Indonesian               |
-
+| 30.json | Persian                  |
 
 Note: Until the 1.00 release the necessary strings are subject to change, only English (`01.json`/`18.json`) will be kept up to date. The community that "needs" another language will be expected to submit translations
